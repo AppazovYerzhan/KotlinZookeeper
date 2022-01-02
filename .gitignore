@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Topics/Reading data with a readLine/Reversed output/out/
+/Topics/Reading data with a readLine/Reversed output/out/production/classes/
+/Zookeeper/task/build/
